@@ -26,3 +26,4 @@ readline.question('Digite sua primeira nota: ' , (nota1) => {
     
     })
 })
+
