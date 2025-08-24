@@ -21,4 +21,3 @@ readline.question('Digite sua primeira nota: ' , nota1 => {
     })
 })
 
-//Essa é uma calculadora de media simples
